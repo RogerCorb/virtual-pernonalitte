@@ -13,15 +13,14 @@
 * { 
 margin: 0;
 padding: 0;
-
- /*informo que as classes filhas devem respeitar o limite do box*/
+ 
 }
 
 body { 
     box-sizing: border-box;
     height: auto;
-    width: auto;    
-    display: flex;          /* utilizando flex  */ 
+    width: auto;   
+    display: flex;         
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -31,32 +30,36 @@ body {
 
 .cabecalho { 
     display: flex;  
-    justify-content: center;    
-    width:100%;    
-    margin:5px;
-    padding: 20px;
-    /*
+    justify-content:space-between; 
+    text-align:end;    
+    width:100%; 
+    margin-bottom: 1rem;       
+    padding: 20px; 
     background-color: var(--secondary-color);
-    color: var(--terciary-color);   
     cursor: pointer;
-    font-family: var(--font-familione);
-    font-weight: 400;    
-    */
+    
 }
 
 .cabecalho_navegacao { 
     width:100%;
-    justify-content: center;
+    justify-content: center; 
+    
 }
 
 .cabecalho_navegacao_opcao{ 
-    text-decoration: none;   
+    width:auto;
+    text-decoration: none; 
+    margin:2px;
+    padding: 8px;    
+    border-radius: 16PX;  
+    font-family: var(--font-familione);
+    color: var(--terciary-color); 
+    font-weight: 400;  
 }
 
 .titulo-destaque { 
     color: var(--secondary-color);
 }
-
 
 .apresentacao {
     width:auto;
@@ -119,8 +122,7 @@ a:hover {
 }
 
 .footerpage {     
-    width:100%;
-    justify-content: center;      
+    width:100%;   
     padding: 20px;
     background-color: var(--secondary-color);    
     color: var(--terciary-color) ;
@@ -130,16 +132,34 @@ a:hover {
 }
 
 @media screen and (max-width: 1000px) {
+
+   
+    .cabecalho {
+        width:100%; 
+        text-align: center;               
+        
+    }
+
+    
+    .cabecalho_navegacao_opcao{ 
+        width: auto;   
+        margin:1px;
+        padding: 2px; 
+        border-radius: 16px;
+        justify-content: space-between;  
+    
+    }
         
     .apresentacao { 
-        width: auto;
+        width: 100%;
         flex-direction: column-reverse;
-        margin:0;
+        align-items: center;       
+        margin:0% 0%;  
+        gap:1.5rem;
     }
 
     .apresentacao_foto {        
         padding: 5px ;
-        width: 68%;
-    }
- 
+        width: 85%;        
+    } 
 }
