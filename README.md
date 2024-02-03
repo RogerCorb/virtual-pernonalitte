@@ -21,7 +21,7 @@ Caso haja qualquer problema de execução da página entre em contato com nosso 
 ## 💻 Telas do programa
 
 <img src="src/public/assets/Foto-da-pagina.PNG" width=250 alt="Pagina home" title="Foto da Pagina Web Virtual Personalitte" >
-<img src="src/public/assets/Foto-da-pagina.PNG" width=250 alt="Pagina Contato" title="Foto da Pagina de contato" >
+<img src="src/public/assets/Foto-Pagina-Contato.PNG" width=250 alt="Pagina Contato" title="Foto da Pagina de contato" >
 
 ## ✒️ Autor
 
