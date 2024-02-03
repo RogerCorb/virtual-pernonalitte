@@ -2,7 +2,10 @@
 
 # Pagina web Virtual-Personalitte
 
-Este projeto foi desenvolvido utilizando HTML5 e CSS3, a idéia é uma página com breve apresentação e botões de chamada para iteração dos usuários diretamente com o fornecedor de servços.
+Este projeto está sendo  desenvolvido utilizando HTML5,CSS3,JAVASCRIPT lado Front-end e no lado Back-end ,
+estou utilizando NODE.JS,EXPRESS,NODEMAILER,API-REST,JAVASCRIPT,DOTENV a idéia é uma página com breve apresentação e botões de chamada para iteração dos usuários diretamente com o fornecedor de serviços, o design 
+Front-end utilizado é do curso da ONE (Oracle Next Education) - alura com algumas modificações e adaptações feitas por mim mesmo, e está sendo utilizado a responsividade para dispositivos mobile. O lado Back-end se 
+tem a preocupação com a segurança das variáveis de ambiente e procura utilizar código limpo.
 
 ## Hospedagem / Deploy 
 
