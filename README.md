@@ -6,7 +6,8 @@ Este projeto foi desenvolvido utilizando HTML5 e CSS3, a idéia é uma página c
 
 ## Hospedagem / Deploy 
 
-Para rodar este projeto ele está publicado em GitHub Pages com o link https://rogercorb.github.io/virtual-pernonalitte/
+Para rodar este projeto vc precisará rodar o  servidor local com o nodejs digitando ... node server.js 
+em seguida acesse seu browser ou navegador e digite http://localhost:3000/index.html
 
 ## Relatar um problema 
 
