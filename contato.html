@@ -17,13 +17,31 @@
             </nav>            
         </header>
 
-        <main>
+        <main class="apresentacao">
+            <section class="apresentacao_conteudo">
+                <h1 class="apresentacao_conteudo_titulo">
+                    Preencha os campos de contato                     
+                </h1>                
 
+                <form class="apresentacao_conteudo_formulario" action="mailto:virtualpersonalite@gmail.com" method="post" enctype="text/plain" >
+                    <input class="apresentacao_conteudo_formulario_input"  type="text" name="subject" value="Assunto do e-mail">                   
+                    <input class="apresentacao_conteudo_formulario_input"  type="text" name="nome" placeholder="Nome">
+                    <input class="apresentacao_conteudo_formulario_input"  type="email" name="email" placeholder="E-mail">
+                    <input class="apresentacao_conteudo_formulario_input"  type="text" name="body" value="Corpo do e-mail">                    
+                   
+                </form>
+
+                <div class="apresentacao_formulario_button">
+                    <button class="apresentacao_conteudo_formulario_button"  onclick="envio()">Enviar</button>                    
+                </div>
+            </section>    
+            <img class="apresentacao_foto"  src="assets/trabalho-remoto-em-casa-local-de-trabalho-em-home-office-com-pc-dispositivos-e-gadgets.jpg" alt="Foto mulher trabalhando no computador">        
         </main>
-
+        
         <footer class="footerpage">
             <p class="footerpageparagrafo">Desenvolvido por Rogerio</p>
-        </footer>         
+        </footer>
+        <script src="app.js" defer></script>        
         
     </body>
 </html>
