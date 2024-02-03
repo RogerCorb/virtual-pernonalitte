@@ -14,7 +14,8 @@ em seguida acesse seu browser ou navegador e digite http://localhost:3000/index.
 
 ## Relatar um problema 
 
-Caso haja qualquer problema de execução da página entre em contato com nosso help-desk.
+Caso haja qualquer problema de execução da página entre em contato comigo através do linkedin
+www.linkedin.com/in/rogerio-corbo
 
 
 ## 🛠️ Construído com
