@@ -4,6 +4,7 @@ function Keepgo() {
    const email = document.querySelector('[name="email"]').value;
    const subject = document.querySelector('[name="subject"]').value;
    const body= document.querySelector('[name="body"]').value;
+   
 
    console.log(nome);
    console.log(email);
