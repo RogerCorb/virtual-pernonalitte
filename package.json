@@ -4,7 +4,7 @@
   "description": "Este projeto foi desenvolvido utilizando HTML5 e CSS3, a idéia é uma página com breve apresentação e botões de chamada para iteração dos usuários diretamente com o fornecedor de servços.",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon ./src/server.js"
   },
   "keywords": [],
   "author": "",
