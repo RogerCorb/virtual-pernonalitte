@@ -9,7 +9,8 @@ tem a preocupação com a segurança das variáveis de ambiente e procura utiliz
 
 ## Hospedagem / Deploy 
 
-Para rodar este projeto vc precisará rodar o  servidor local com o nodejs digitando ... node server.js 
+Para rodar este projeto vc precisará rodar o  servidor local com o nodejs, para isso acesse a pasta raiz do programa
+chamada portfólio , abra um novo terminal no seu vs code e digite o comando..:  npm run dev 
 em seguida acesse seu browser ou navegador e digite http://localhost:3000/index.html
 
 ## Relatar um problema 
