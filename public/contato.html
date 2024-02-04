@@ -4,7 +4,8 @@
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <script> src="../src/server.js"</script>        
+        <script> src="../src/server.js"</script>
+        <script src="/js/procedures.js"></script>              
         <link rel="stylesheet" href="/styles/style.css">
         <title>Contato</title>
     </head>
@@ -29,12 +30,12 @@
                     <input class="apresentacao_conteudo_formulario_input"  type="text" name="subject" placeholder="Assunto">                   
                     <input class="apresentacao_conteudo_formulario_input"  type="text" name="nome" placeholder="Nome">
                     <input class="apresentacao_conteudo_formulario_input"  type="email" name="email" placeholder="E-mail">
-                    <input class="apresentacao_conteudo_formulario_input"  type="text area" name="body" placeholder="Digite sua solicitação "> 
+                    <input class="apresentacao_conteudo_formulario_input"  type="text" name="body" placeholder="Digite sua solicitação "> 
                    
                 </form>
 
-                <div class="apresentacao_formulario_button">
-                    <button class="apresentacao_conteudo_formulario_button"  onclick="envio()">Enviar</button>                    
+                <div class="apresentacao_formulario_button">                   
+                    <button id="meuBotao" class="apresentacao_conteudo_formulario_button" type="submit" onclick="Keepgo()">Enviar</button>                    
                 </div>
             </section>    
             <img class="apresentacao_foto"  src="/assets/trabalho-remoto-em-casa-local-de-trabalho-em-home-office-com-pc-dispositivos-e-gadgets.jpg" alt="Foto mulher trabalhando no computador">        
@@ -43,7 +44,7 @@
         <footer class="footerpage">
             <p class="footerpageparagrafo">Desenvolvido por Rogerio</p>
         </footer>
-        <script src="../public/js/app.js" defer></script>        
+              
         
     </body>
 </html>
