@@ -19,7 +19,7 @@ Caso haja qualquer problema de execução da página entre em contato comigo atr
 www.linkedin.com/in/rogerio-corbo
 
 
-## 🛠️ Construído com
+## 🛠️ Tecnologias utilizadas 
 
   ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
   ![Node](	https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -27,6 +27,7 @@ www.linkedin.com/in/rogerio-corbo
   ![Npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) 
   ![Html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+  ![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 
 ## 💻 Telas do programa
