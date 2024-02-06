@@ -22,16 +22,8 @@ www.linkedin.com/in/rogerio-corbo
 ## 🛠️ Construído com
 
 <div>
-  ![vsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-  ![Static Badge](https://img.shields.io/badge/html5)
-  ![Static Badge](https://img.shields.io/badge/css3)
-  ![Static Badge](https://img.shields.io/badge/javascript)  
-  ![Static Badge](https://img.shields.io/badge/node.js)
-  ![Static Badge](https://img.shields.io/badge/express.js)
-
+  <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">   
 </div>
-
-
 
 ## 💻 Telas do programa
 
