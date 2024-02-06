@@ -21,13 +21,26 @@ www.linkedin.com/in/rogerio-corbo
 
 ## 🛠️ Construído com
 
-![vsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<div>
+  ![vsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+  ![Static Badge](https://img.shields.io/badge/html5)
+  ![Static Badge](https://img.shields.io/badge/css3)
+  ![Static Badge](https://img.shields.io/badge/javascript)  
+  ![Static Badge](https://img.shields.io/badge/node.js)
+  ![Static Badge](https://img.shields.io/badge/express.js)
+
+</div>
+
 
 
 ## 💻 Telas do programa
 
-<img src="src/public/assets/Foto-da-pagina.PNG" width=250 alt="Pagina home" title="Foto da Pagina Web Virtual Personalitte" >
-<img src="src/public/assets/Foto-Pagina-Contato.PNG" width=250 alt="Pagina Contato" title="Foto da Pagina de contato" >
+<div>
+  <img src="/public/assets/Foto-da-pagina.PNG" width=250 alt="Pagina home" title="Foto da Pagina Web Virtual Personalitte" >
+  <img src="/public/assets/Foto-Pagina-Contato.PNG" width=250 alt="Pagina Contato" title="Foto da Pagina de contato" >
+</div>
+
+
 
 ## ✒️ Autor
 
